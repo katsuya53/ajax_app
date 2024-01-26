@@ -10,3 +10,4 @@ class ApplicationController < ActionController::Base
     end
   end
 end
+#デプロイ失敗したのでやり直し用
